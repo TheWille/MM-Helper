@@ -5,7 +5,6 @@ Odom_Lamar_[2]_Неадекватное_поведение
 Logan_Network_[2]_Неадекватное_поведение
 Leone_Galante_[2]_Неадекват_в_/f,_порча_объявлений
 Kiril_Severin_[2]_Оскорбление_сотрудников_СМИ
-Stas_Shevchuk_[2]_Неадекватное_поведение_в_/r
 Margorita_Velaskes_[2]_неадекват_в_/f
 Stanislav_Caplin_[2]_неадекват
 Vlad_Shuckiy_[2]_Флуд_в_/f,_/r
@@ -53,12 +52,10 @@ Mike_Frentos_[3]_Неадекват
 Naruto_McFly_[3]_оск
 Xeno_White_[2]_флуд_в_/r
 John_Konar_[2]_флуд_в_/r
-Fernando_Ross_[3]_Неадекватная_подача_/ad
 Francesco_Leopardi_[3]_Неадекватная_подача_/ad
 Abraham_Lincoln_[5]_Неадекват,_флуд,_оск_родных,_реклама
 Alessandro_Mountain_[4]_Оскорбления_Президента
 Diego_Maps_[5]_Обман_руководства
-Fernando_Ross_[2]_Неадекватная_подача_/ad
 Ben_Nash_[2]_Неадекватная_подача_/ad
 Tashio_Takada_[3]_Нападение_на_сотрудника_СМИ
 Dyana_Shyrigina_[4]_обман_на_деньги_в_эфире.
