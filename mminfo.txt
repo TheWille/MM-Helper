@@ -11,7 +11,7 @@
 {FFFFFF}/sobes - {a3ab38}Проверка на собеседовании
 {FFFFFF}/testp - {a3ab38}Проверка на знание ПРО
 {FFFFFF}/testu - {a3ab38}Проверка на знание Устава СМИ	
-{FFFFFF}/floodinfo - {a3ab38}Лекция в рацию												 
+{FFFFFF}/rlec - {a3ab38}Лекция в рацию												 
 {FFFFFF}/xuninvite [id] [причина] - {a3ab38}Уволить с RP отыгровкой
 {FFFFFF}/xskin [id] - {a3ab38}Сменить скин с RP отыгровкой
 {FFFFFF}/xrang [id] [+ / -] - {a3ab38}Выдать бейджик с RP отыгровкой
