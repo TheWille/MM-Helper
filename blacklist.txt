@@ -581,3 +581,5 @@ Nicolas_Dezzrol_[4]_Взятие_вертолёта,_обман_управляю
 Jager_Schmidt_[2]_Неадекват_в_/ad.
 Johnny_Coppola_[2]_Неадекват_в_/ad.
 Artem_Freeman_[4]_Порча_объявлений,_флуд_в_/f.
+Felix_Grace_[1]_Неадекват_в_/ad.
+Oleg_Carmone_[1]_Неадекват_в_/ad.
