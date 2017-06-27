@@ -11,4 +11,4 @@
 можете посмотреть на форуме (forum.advance-rp.ru)
 
 {FF8C00}White Server>Организации>ТВ и радио>
->ТВ и Радио | MM | MM Helper - Универсальный AHK для СМИ.
+>MM | MM Helper - Универсальный AHK для СМИ.
