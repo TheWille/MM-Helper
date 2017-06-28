@@ -14,7 +14,7 @@
 {FFFFFF}/testp - {FF8C00}Проверка на знание ПРО
 {FFFFFF}/testu - {FF8C00}Проверка на знание Устава СМИ	
 {FFFFFF}/rlec - {FF8C00}Лекция в рацию												 
-{FFFFFF}/xuninvite [id] [причина] - {FF8C00}Уволить с RP отыгровкой
+{FFFFFF}/uninv [id] [причина] - {FF8C00}Уволить с RP отыгровкой
 {FFFFFF}/xskin [id] - {FF8C00}Сменить скин с RP отыгровкой
 {FFFFFF}/xrang [id] [+ / -] - {FF8C00}Выдать бейджик с RP отыгровкой
 {FFFFFF}/xinvite [id] - {FF8C00}Принять в организацию с RP отыгровкой
