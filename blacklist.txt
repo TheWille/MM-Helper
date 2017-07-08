@@ -592,4 +592,6 @@ Paul_Shermar_[4]_Порча_объявлений.
 Jonny_Edwards_[4]_Неадекват_в_рации.
 Ricardo_Escobaro_[4]_Неадекват_в_рации.
 Egor_Branca_[5]_Блат.
-Giuseppe_Amaretto_[5]_Порча_объявлений,_неадекват
+Giuseppe_Amaretto_[5]_Порча_объявлений,_неадекват.
+Ferz_Esposito_[3]_Нападение_на_управляющего.
+Kenji_Hattori_[3]_Нападение_на_управляющего.
