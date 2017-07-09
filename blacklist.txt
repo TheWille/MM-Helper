@@ -595,3 +595,4 @@ Egor_Branca_[5]_Блат.
 Giuseppe_Amaretto_[5]_Порча_объявлений,_неадекват.
 Ferz_Esposito_[3]_Нападение_на_управляющего.
 Kenji_Hattori_[3]_Нападение_на_управляющего.
+Artem_Golyshev_[2]_Флуд_в_/r.
