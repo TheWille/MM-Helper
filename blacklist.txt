@@ -130,6 +130,7 @@ Denis_Tapu_[3]_|_Неадекватное_поведение_в_/ad
 Aleksandr_Bondarev_[3]_|_Неадекватное_поведение_в_/ad
 Kira_Kaim_[2]_|_Неадекватное_поведение_в_/ad
 Rain_Eden_[3]_|_Неадекватное_поведение_в_/ad
+Miki_Tan_[4]_Нападение_на_управ.
 Eric_Muver_[3]_|_Flood_в_/f
 Pasha_Volodin_[2]_|_Оскорбление_сотрудников_СМИ
 Grand_Forg_[2]_|_Оскорбление_сотрудников_СМИ
@@ -150,6 +151,7 @@ Maks_Zinchenko_[2]_|_Систематическая_неадекватность
 Jonson_Butler_[3]_|_Неадекватность_в_/ad,_тяжкие_оскорбления
 Waka_McFly_[2]_|_flood_в_/f
 Amedeo_Corti_[2]_|_flood_в_/f
+Sho_Ito_[4]_Нападение_на_управ.
 Diego_Gomez_[3]_|_Неадекватное_поведение,_оскорбления_коллег
 Neymar_Jackson_[3]_|_Оскорбления_коллег,_неадекватное_поведение
 Roberto_Savrun_[2]_|_flood_в_/r
@@ -196,6 +198,7 @@ Nate_Nuestra_|_[3]_|_Неадекватное_поведение,_оскорбл
 Konstantin_Gold_[3]_оск_лидера_+_угрозы
 Egor_Vens_[4]_неадекватная_личность
 Takumi_Yamazaki_[4]_неадекват_в_оос
+William_Vazquez_[3]_неадекват.
 Samuel_Mongano_[3]_неадкеватноe_/ad
 Jordan_Tompson_[4]_nonrp_покушение_на_Директора_Телецентра_с_оружием,_выпрашивание_бейджика
 Rodrigo_Lozano_[4]_реклама_в_эфире
@@ -457,6 +460,7 @@ Dino_Jonhson_[3]_Оскорбления_род_+_флуд
 Jeck_McCord_[2]_Оскорбления_сотрудников
 Johnny_Grand_[3]_Неадекватное_поведение_в_/ad
 Armando_Riesco_[3]_Покушение_на_управляющего_СМИ
+Nikita_Goryanow_[3]_Неадекватное_поведение
 Sebastyan_Chukran_[4]_Оскорбление_родных
 Maestro_Diaz_[3]_Оскорбление_директора
 Vladimer_Mayorov_[4]_Обман_управляющего_СМИ
@@ -511,13 +515,13 @@ Arseny_Ganzurov_[3]_Флуд_в_/f,_неадекват
 Ramazan_Ferrari_[4]_Неадекват_+_оск.Управляющего
 Jeff_Li_[4]_Неадекват_+_оск.Управляющего
 Aleksandr_Holmogorov_[3]_Неадекват_+_флуд_в_/f
-Maxksim_Lakstern_[3]Неадекват_+_ДМ
+Maxksim_Lakstern_[3]_Неадекват_+_ДМ
 Kenji_Nakata_[4]_Неадекват_+_флуд_в_/f_+_мат
 Kirill_Levonenya_[3]_Оск.Директора
 Jack_Williamson_[3]_Неадекват_+_флуд_в_/f
 Katsu_Ochida_[3]_Флуд_в_/f_+_Реклама
 Crowes_Homeless_[3]_Мат_+_Оск.сотрудника
-Tolik_Semykin_[3_]Мат_+_Неадекват
+Tolik_Semykin_[3]_Мат_+_Неадекват
 Jayden_Simmons_[4]_Неадекват_+_нарушение_устава_СМИ_+_оск.сотрудников
 Brain_Hams_[3]_Подделка_документов
 Nick_Skiletti_[3]_Флуд_в_/f_+_Оскорбление_в_/f
@@ -554,7 +558,7 @@ Jesus_Space_[2]_Неадекват.
 Satoshi_Sakai_[3]_неадекват.
 Tony_Wu_[1]_флуд_/r.
 Antonio_Monaco_[2]_неадекват.
-August_Belyaev[2]_Не_прошел_контрактную_работу.
+August_Belyaev_[2]_Не_прошел_контрактную_работу.
 Tom_Fud_[2]_Не_прошел_контрактную_работу.
 Alexey_Komissin_[2]_неадекват_в_/edit.
 Felix_Grace_[2]_неадекват_в_/ad.
@@ -585,7 +589,7 @@ Felix_Grace_[1]_Неадекват_в_/ad.
 Oleg_Carmone_[1]_Неадекват_в_/ad.
 Roman_Stepanov_[3]_Неадекватное_поведение.
 Daichi_Takada_[2]_Неадекват_в_/ad.
-Diego_More_[2]_Неадекват_в_/ad.
+Diego_More_[4]_Неадекват_в_/ad.
 Maksim_Mendeleev_[2]_Порча_объявлений
 Angelo_Amato_[2]_Неадекват_в_/ad.
 Paul_Shermar_[4]_Порча_объявлений.
@@ -593,6 +597,6 @@ Jonny_Edwards_[4]_Неадекват_в_рации.
 Ricardo_Escobaro_[4]_Неадекват_в_рации.
 Egor_Branca_[5]_Блат.
 Giuseppe_Amaretto_[5]_Порча_объявлений,_неадекват.
-Ferz_Esposito_[3]_Нападение_на_управляющего.
-Kenji_Hattori_[3]_Нападение_на_управляющего.
+Ferz_Esposito_[4]_Нападение_на_управляющего.
+Kenji_Hattori_[4]_Нападение_на_управляющего.
 Artem_Golyshev_[2]_Флуд_в_/r.
