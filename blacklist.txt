@@ -142,7 +142,6 @@ Max_Angello
 Charles_Kraus
 Michelangelo_Buffon
 Mickey_Rayn
-Nikita_Goryaynov
 Sergey_Yakubenko
 Diego_Marriano
 Seth_Luciano
@@ -608,3 +607,6 @@ Nik_Save
 Takehiro_Motidzuki
 Harvy_Freeman
 Nikit_Mikhailov
+Leon_Russo
+Santiego_Johnson
+Victor_Klenov
