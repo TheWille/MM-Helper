@@ -81,7 +81,6 @@ Snake_Fernandes
 Vlad_Miron
 Diego_Solomon
 Ryan_Nostra
-Leonardo_Wainer
 Charles_Wells
 Leonardo_Long
 Ruslan_Mishin
