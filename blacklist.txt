@@ -21,7 +21,6 @@ Arthur_Speaks
 Edward_Cullen
 Enzo_Espada
 Takumi_Kyoshi
-Vlad_Kostin
 Apolo_Creed
 Edward_Killiano
 Dmitriy_Krivtsov
@@ -361,7 +360,6 @@ Bodya_Moretti
 Neyron_Miller
 Bruno_Buyer
 Jarry_Sweazy
-Marty_Makflay
 Giuseppe_Amore
 Oliver_Cobain
 Slava_Jonson
