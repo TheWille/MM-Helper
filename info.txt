@@ -1,4 +1,4 @@
-﻿{3399FF}MM Helper{EEEE00} v3.0.3
+﻿{3399FF}MM Helper{EEEE00} v3.0.6
 {3399FF}Разработчик скрипта: James Shorter
 
 {FFFFFF}Регистрация в скрипте: {FF8C00}/mmreg
