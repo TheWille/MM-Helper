@@ -639,7 +639,6 @@ Tora_Yosida
 Marcus_Cartman
 Massimo_Mancini
 Diego_Fernandez
-Nazar_Ermakov
 Stas_Lomashko
 Nicholas_Watson
 Lawrence_McLight
