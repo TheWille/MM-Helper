@@ -1,4 +1,5 @@
 Alexey_Potapov
+Angelina_Safronova
 Francesco_Alcopone
 Arthur_Speaks
 Apolo_Creed
@@ -89,6 +90,8 @@ Aleksey_Merinov
 Antonio_Raffaele
 Arikame_Kot
 Antonio_Raffale
+Alejandro_Evanstone
+Benjiro_Harada
 Brain_Lambardi
 Ben_Nash
 Bekhan_Atohov
@@ -107,6 +110,8 @@ Bogdan_Kolesnik
 Benjamin_Bosch
 Bady_Johson
 Black_Berry
+Bruno_Freeman
+Caesar_Mayer
 Colin_Reiner
 Charles_Wells
 Charles_Kraus
@@ -120,6 +125,7 @@ Christopher_Horrigan
 Cheech_Sorrentino
 Crowes_Homeless
 Charles_Dempsey
+Dima_Scholar
 Dmitriy_Krivtsov
 Dima_Sobko
 Diego_Maps
@@ -177,6 +183,8 @@ Diego_Word
 Dima_Novoselski
 Denis_Shavaleev
 Dominic_Coppola
+Domenico_Rayd
+El_Krouze
 Edward_Cullen
 Enzo_Espada
 Edward_Killiano
@@ -220,6 +228,7 @@ Ferz_Esposito
 Fozy_Bridges
 Frederico_Schtaff
 Fernando_Frontellio
+Grace_Branca
 Garry_Batman
 Georgii_Muxinov
 Grand_Forg
@@ -443,6 +452,7 @@ Muhhamad_Aziz
 Maksim_Sharin
 Maksum_Tiran
 Mello_Bartolomeo
+Misha_Sokolov
 Nick_Moreno
 Nik_Save
 Naruto_McFly
@@ -498,6 +508,7 @@ Paul_Shermar
 Pasha_Serman
 Quentin_Charlston
 Oldey_Branca
+Ruin_Forbes
 Rudy_Collins
 Rickey_Vance
 Richard_Lamborghini
@@ -591,6 +602,7 @@ Supreme_Divergents
 Santiego_Johnson
 Stas_Lomashko
 Sasha_Bekbulatov
+Tommy_Wade
 Takumi_Kyoshi
 Tashio_Takada
 Tim_Forcov
@@ -643,6 +655,7 @@ Vladislaw_Sorokin
 Vlad_Rayn
 Victor_Klenov
 Vadim_Makarenko
+William_Vinewood
 Wowa_Wells
 William_DeHea
 Walter_Whiter
