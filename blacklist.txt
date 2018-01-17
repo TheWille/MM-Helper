@@ -414,6 +414,7 @@ Markus_Karver
 Mikio_Tan
 Maks_Donets
 Maximiliano_Comandor
+James_Shorter
 Maks_Keep
 Mike_Mizanin
 Martin_Florence
@@ -667,6 +668,7 @@ William_Link
 Waka_Rave
 Woody_Ferrari
 Waka_Disquze
+Connor_Shorter
 Winston_Marvel
 Waka_Escobaro
 William_Link
@@ -682,3 +684,4 @@ Yanix_Smooky
 Zahar_Mednov
 Maksim_Gantov
 Edward_Mellow
+Artem_Mendeleev
